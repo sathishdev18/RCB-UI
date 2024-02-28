@@ -415,6 +415,10 @@ B{
     height: 550px;
     width: 600px;
 }
+#map{
+    position: relative;
+    top: -14px;
+}
 
 #buy{
     height: 150px;
