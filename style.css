@@ -1,0 +1,609 @@
+.header{
+    border: 2px solid black;
+    background-color: rgb(165, 7, 7);
+    border-top-left-radius: 10px;
+    width: 96.590%;
+    height: 140px;
+}
+img{
+    height: 80%;
+    position: relative;
+    left: 4%;
+}
+h1{
+    font-family: Georgia;
+    font-size: 70%;
+    color: white;
+    position: relative;
+    left: 4%;
+    top: -7%;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+    
+}
+li{
+    display: inline;
+    padding: 1%;
+     position: relative;
+    left: 10%;
+    top: -40px;
+    color: white;
+    text-decoration: none;
+   
+
+}
+#link{
+    text-decoration: none;
+}
+li:hover{
+    color: yellow;
+}
+.fa-brands:hover{
+    color: goldenrod;
+}
+
+.pic{
+    position: relative;
+    top: -140px;
+    left: 10%;
+}
+
+
+
+section{
+    margin-left: 89%;
+    margin-top: -14%;
+    padding: 20px; 
+}
+.fa-brands{
+    color: white;
+    padding: 2px;
+}
+span{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    margin-left: -163%;
+}
+.menu{
+    border: 2px solid black;
+    height: 500px;
+    width: 900px;
+    margin-top: -55px;
+    background-image: url("https://www.royalchallengers.com/PRRCB01/public/styles/1061x767_landscape/public/2024-02/ROY05091.jpg?itok=Utnol60B");
+    border-style: none;
+}
+.me1{
+  height: 100%;
+}
+#score{
+    border: 2px solid black;
+    height: 500px;
+    width: 380px;
+    margin-left: 101%;
+    background-color: rgb(19, 18, 18);
+    border-style: none;
+}
+h4{
+    text-align: center;
+    color: goldenrod;
+    font-family: inherit;
+}
+.rcb{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.w{
+    border: 1px solid white;
+    border-radius: 1px;
+    height: 50px;
+    width: 50px;
+    color: white;
+    margin-left: 22%;
+    margin-top: -15%;
+    
+}
+.opp{
+    border: 1px solid white;
+    border-radius: 1px;
+    height: 50px;
+    width: 50px;
+    margin-left: 200%;
+    margin-top: -185%;
+}
+.over2{
+    margin-top: 11%;
+    margin-left:200%; 
+}
+.up{
+    border-radius: 50%;
+   position: relative;
+   top: -90px;
+   left: 330%;
+    
+}
+.over{
+    margin-top: 20%;
+    margin-left: -2px;
+}
+h6{
+    color: goldenrod;
+    margin-left: 70px;
+    margin-top: -40px;
+}
+pre{
+    color: goldenrod;
+}
+#today{
+    border: 2px solid rgb(80, 77, 77);
+    height: 130px;
+    width: 370px;
+    margin-left: -83px;
+    background-color: rgb(80, 77, 77);
+}
+B{
+    color: goldenrod;
+    position: relative;
+    top: -50px;
+    left: 10px;
+}
+
+button{
+    background-color: red;
+    text-align: center;
+    width: 160px;
+    height: 50px;
+    color: white;
+    margin-top: 10px;
+}
+.buy{
+    color: white;
+    text-decoration: none;
+}
+.buy:hover{
+    color: goldenrod;
+}
+.news1{
+    border: 2px solid black;
+    height: 440px;
+    width: 47%;
+    margin-top: 10px;
+    border-style: none;
+}
+.nm{
+    height: 100%;
+    width: 100%;
+    margin-left: -25px;
+  
+}
+  
+.ns{
+    position: relative;
+    top: -460px;    
+    color: red;
+    font-size: 20px;
+}
+.video{
+    border: 2px solid black;
+    height: 200px;
+    width: 250px;
+    position: relative;
+    left: 49%;
+    top: -440px;
+    border-style: none;
+}
+.poll{
+    border: 2px solid black;
+    height: 440px;
+    width: 370px;
+    position: relative;
+    left: 106%;
+    top: -254px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+    text-align: center;
+    color: red;
+    background-color: gainsboro;
+    border-style: none;
+}
+
+B{
+ margin-left: -15px;
+ position: relative;
+ top: -28px;
+ left: 20px;
+}
+.b2{
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+#vv{
+    position: relative;
+    top: 20px;
+}
+.r1{
+    position: relative;
+    top: 30px;
+    left: -100px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+.r2{
+    position: relative;
+    top: 30px;
+    left: -60px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+.r3{
+    position: relative;
+    top: 30px;
+    left: -81px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+.submit{
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    border-style: none;
+    position: relative;
+    top: 100px;
+}
+#tv{
+    border: 2px solid black;
+    background-color: rgb(204, 10, 10);
+    height: 20px;
+    width: 70px;
+    border-style: none;
+    font-size: 10px;
+    color: white;
+    justify-content: center;
+    position: relative;
+    top: -210px;
+  
+}
+.ns:hover{
+    color: rgb(247, 247, 30);
+}
+#tv:hover{
+    color: rgb(204, 164, 61);
+}
+.nags{
+    /* border: 2px solid black; */
+    height: 100px;
+    width: 200px;
+    font-size: 15px;
+    position: relative;
+    top: -510px;
+    color: black;
+    
+}
+.nags:hover{
+    color: rgb(214, 165, 41)
+}
+.image{
+    position: relative;
+    top: -160px;
+    text-align: center;
+    border: 1px solid gainsboro;
+    
+}
+.turn{
+    border: 1px solid gainsboro;
+    height: 25px;
+    width: 180px;
+    text-align: center;
+    position: relative;
+    top: -100px;
+    left: 350px;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.t1:hover{
+    color: goldenrod;
+}
+.t1{
+    color: red;
+    text-decoration: none;
+}
+.article{
+    border: 1px solid gainsboro;
+    height: 25px;
+    width: 180px;
+    text-align: center;
+    position: relative;
+    top: -128px;
+    left: 580px;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.t2{
+    color: red;
+    text-decoration: none;
+}
+.t2:hover{
+    color: goldenrod;
+}
+.back{
+    border: 2px solid black;
+    height: 650px;
+    width: 96.590%;
+    border-style: none;
+    
+}
+.d-block{
+    height: 600px;
+}
+.pic1{
+    position: relative;
+    top: 90px;
+
+}
+.text{
+    border: 2px solid black;
+    height: 430px;
+    width: 240px;
+    position: relative;
+    top: -430px;
+    left: 280px;
+    background-color: rgb(180, 24, 24);
+    border-style: none;
+
+}
+#box1{
+    font-size: 1.1rem;
+    font-weight: normal;
+    line-height: 1.43;
+    color: white;
+    border-style: none;
+}
+#box1:hover{
+    color: goldenrod;
+}
+.view{
+    border: 1px solid black;
+    background-color: whitesmoke;
+
+    text-align: center;
+    font-size: 1rem;
+    width: 240px;
+    height: 40px;
+    border-style: none;
+    position: relative;
+    top: 16px;
+    
+}
+.al:hover{
+    color: goldenrod;
+}
+.al{
+    color: rgb(212, 28, 28);
+   text-decoration: none;
+}
+#the{
+    position: relative;
+    top: -500px;
+    left: -70px;
+    color: rgb(212, 30, 30);
+    font-size: 2rem;
+}
+#font{
+    position: relative;
+    top: -920px;
+    left: 300px;
+    color: rgb(212, 25, 25);
+    font-size: 3rem;
+    text-shadow: 10px 10px 10px bisque;
+}
+.str{
+    display: grid;
+    background-color: white;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto;
+    gap: 20px;
+    
+    height: 550px;
+    width: 600px;
+}
+
+#buy{
+    height: 150px;
+}
+#sh{
+    padding: 20px;
+    border-color: 2px solid blueviolet;
+}
+.shirt{
+    text-align: center;
+    border: 1px solid gray;
+    padding-top: 10px;
+}
+.rs{
+    border: 1px solid black;
+    display: inline;
+    padding: 10px;
+    color: black;
+    
+}
+#name{
+    font-family: bodoni mt condensed;
+    font-size: large;
+}
+.lk{
+    text-decoration: none;
+    color: black;
+}
+.str{
+    position: relative;
+    left: 600px;
+    top: -950px;
+}
+.lk:hover{
+    color: goldenrod;
+}
+  #phone{
+    position: relative;
+    top: 50px;
+} 
+ #text1{
+   margin-left: 580px;
+   margin-top: -470px;
+   font-size: 2rem;
+}
+#text2{
+   margin-left: 580px;
+   margin-top: -50px;
+   font-size: 2.5rem;
+   color: red;
+} 
+#gplay{
+    margin-left: 530px;
+}
+.footer{
+    border: 2px solid black;
+    background-color: rgb(107, 104, 104);
+    height: 900px;
+    width: 1300px;
+    position: relative;
+    top: 390px;
+    border-style: none;
+}
+#part{
+   
+    margin-left: 500px;
+   margin-top: 20px;
+    font-size: 1.6rem;
+}
+#bold{
+    color: white;
+    position: relative;
+    top: 42px;
+}
+#qatar{
+    height: 120px;
+    width: 200px;
+  margin-left: 500px;
+  margin-top: -300px;
+}
+#jio{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: -390px;
+    left: 600px;
+}
+#ass{
+   position: relative;
+   left: 590px;
+   top: -150px;
+   color: white;
+}
+.ass1{
+    height: 70px;
+    width: 80px;
+    position: relative;
+    left: 340px;
+    top: -130px;
+    transform: rotate(-5deg);
+}
+.ass2{
+    height: 50px;
+    width: 130px;
+    position: relative;
+    left: 390px;
+    top: -130px;
+}
+.ass3{
+    height: 50px;
+    width: 100px;
+    position: relative;
+    left: 440px;
+    top: -130px;
+}
+.ass4{
+    height: 50px;
+    width: 100px;
+    position: relative;
+    left: 480px;
+    top: -130px;
+}
+#last{
+    border: 2px solid black;
+    height: 300px;
+    width: 880px;
+    border-style: none;
+}
+#last{
+    background-color: rgb(61, 59, 59);
+}
+#play{
+    height: 120px;
+    margin-top: 90px;
+    margin-left: 40px;
+}
+#textw{
+    position: relative;
+    top:-300px;
+}
+#take4{
+    font-size: 0.9rem;
+    position: relative;
+    top: 150px;
+    left: 40px;
+    color: white;
+}
+#take5{
+    font-size: 0.9rem;
+    position: relative;
+    top: 50px;
+    color: white;
+}
+.take7{
+    font-size: 0.9rem;
+    color: white;
+    position: relative;
+    top: -50px;
+    
+}
+#last1{
+    border: 2px solid black;
+    background-color: rgb(61, 59, 59);
+    height: 227px;
+    left: 881px;
+    width: 419px;
+    position: relative;
+    top: -533px;
+    border-style: none;
+}
+#lv{
+    position: relative;
+    padding: 5px;
+    left: 180px;
+    top: 50px;
+}
+.ad{
+    position: relative;
+    top: 50px;
+    left: -130px;
+    color: white;
+}
+#py{
+    height: 20px;
+    position: relative;
+    left: 280px;
+}
+#ay{
+    height: 20px;
+    position: relative;
+    left: 290px;
+}
